@@ -1,0 +1,6 @@
+1. func@0x100f32ce 44.60%
+2. discreteCosineTransform 29.46%
+3. _stdio_common_vfprintf 11.53%
+4. cos 6.49%
+5. fread 1.73%
+Vrijeme izvodjenja: 4.101s
